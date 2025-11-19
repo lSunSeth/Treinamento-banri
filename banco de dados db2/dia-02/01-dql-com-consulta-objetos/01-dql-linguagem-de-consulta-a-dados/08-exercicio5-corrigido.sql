@@ -1,0 +1,4 @@
+-- Exercício 5: LIMIT
+SELECT * 
+FROM PXC.REGISTRO 
+LIMIT 3;

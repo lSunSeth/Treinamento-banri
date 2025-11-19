@@ -1,0 +1,3 @@
+-- Resposta Exercício 2.2: selecione com SELECT apenas o NOME_TITULAR e o NUMERO_CONTA da tabela PXC.EXTRATO.
+SELECT NOME_TITULAR, NUMERO_CONTA
+FROM PXC.EXTRATO;

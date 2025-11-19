@@ -1,0 +1,8 @@
+-- Gabarito: Exercício 1 (CREATE TABLE)
+
+-- 1.1 Criação da tabela EXTRATO
+CREATE TABLE EXTRATO (
+    ID INTEGER PRIMARY KEY,
+    NUMERO_CONTA INTEGER,
+    NOME_TITULAR TEXT
+);

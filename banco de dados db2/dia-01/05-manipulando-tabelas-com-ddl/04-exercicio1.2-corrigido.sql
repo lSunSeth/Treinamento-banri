@@ -1,0 +1,7 @@
+-- Gabarito: Exercício 1 (CREATE TABLE)
+
+-- 1.2 Criação da tabela TIPO_REGISTRO
+CREATE TABLE TIPO_REGISTRO (
+    ID INTEGER PRIMARY KEY,
+    TIPO TEXT
+);

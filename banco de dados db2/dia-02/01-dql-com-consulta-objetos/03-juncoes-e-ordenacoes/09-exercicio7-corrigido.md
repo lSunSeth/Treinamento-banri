@@ -1,0 +1,3 @@
+7.  **Diferença de Junções:**
+    * **Pergunta:** Qual é a principal diferença no conjunto de resultados entre o `INNER JOIN` (do exercício 5) e o `LEFT JOIN` (do exercício 6)?
+    * **Resposta:** O **`INNER JOIN`** retorna apenas os registros que possuem correspondência em ambas as tabelas (contas com movimentos). O **`LEFT JOIN`** retorna todos os registros da tabela da esquerda (**EXTRATO**), incluindo aqueles que não têm correspondência na tabela da direita (**REGISTRO**), onde o `VALOR` será `NULL`.

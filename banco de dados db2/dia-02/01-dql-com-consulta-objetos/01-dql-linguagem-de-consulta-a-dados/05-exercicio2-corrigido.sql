@@ -1,0 +1,4 @@
+-- Exercício 2: Seleção com WHERE
+SELECT NUMERO_CONTA, NOME_TITULAR 
+FROM PXC.EXTRATO 
+WHERE NOME_TITULAR = 'Milena Vargas';
